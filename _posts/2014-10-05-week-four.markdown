@@ -1,0 +1,15 @@
+---
+layout: post
+title: Week 4: Recap
+date: 2014-10-05
+categories: JavaScript, Floats, Grid
+---
+
+The airing of the grievances.
+
+They showed us a bell chart on the first day of class that plummets to an all time low on week four. Well, that’s where we are, folks. We’ve learned a lot of things but none of them are really coming together yet and it’s sometimes hard to see the bigger picture. We had a bit of the airing of the grievances in class which led to “get your butt to office hours” discussion. Right. Will do. 
+
+Still loving floats. I just built a grid without much difficulty. The clear fix is awesome.After working on so much JS, I really appreciate that I can see what I’m doing immediately and make adjustments as I go instead of writing a bunch of stuff and crossing my fingers that it will actually do something. 
+
+Speaking of JS, still not fully getting. Still confusing. Still frustrating. I think the hardest part is that there’s not really a right and wrong answer. It’s all a way of thinking about things.  And my brain just doesn’t seem to want to work that way. I went to office hours and Mae went over a bunch of problems and I felt great and confident when I left. But then still struggled doing it on my own. I see more office hours in my future. 
+

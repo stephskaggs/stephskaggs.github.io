@@ -1,0 +1,12 @@
+---
+layout: post
+title: I made an alert
+date: 2014-09-24
+categories: JavaScript, alert
+---
+
+You've been alerted.
+
+I just learned how to make an alert that changes text from lower case to all caps and adds a bunch of exclamation points. BOOM! Totally useful in the every day world, right?
+
+
