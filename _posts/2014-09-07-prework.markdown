@@ -1,0 +1,11 @@
+---
+layout: post
+title: Git the eff out
+date: 2014-09-07
+categories: git, prework
+---
+
+The reality check of signing up for MakerSquare has set in. Holy moly I have a lot of prework to do. I raced through the HTML and CSS Code Academy work without a sweat. So naturally I assumed the rest would be just as simple...
+But alas...then I reached the exercise about command line and Git. GIT? What? I've never even heard that word before. And honestly, I've never accessed my computer's terminal...I'm not sure I knew that was even an option. At the time, I decided that command line and Git were, in fact, the worst.
+That is, until I reached JavScript. I've had a few people tell me that once JS clicks you think it's the greatest thing ever. I can say with complete assurance that it has definitely not clicked for me. Because it made my life completely miserable. If not for the Q/A forum on Code Academy I'm pretty sure my browser would still be stuck in an infinite loop. It's hard. And it made me feel like shit just got real.
+Bring on the actual classes.
