@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Week 1: Recap
+title: Week 1 - "Install Day" sounded so simple.
 date: 2014-09-14
 categories: git, command line
 ---
-
-"Install Day" sounded so simple.
 
 Week one at Makersquare is over, kids. If I were still in college I would equate day one to "syllabus day." Our instructors introduced themselves and they all seem super/awesome/cool/the best ever. (They also happen to be the ones who look at my homework. Hi Elise, Flip and Mae!)
 

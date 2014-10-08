@@ -1,11 +1,9 @@
 ---
 layout: post
-title: I made a blog
+title: I made a thing - Look! A blog.
 date: 2014-09-15
 categories: Blog, HTML 
 ---
-
-Look! A blog.
 
 It's not pretty. There's no CSS. But it's a thing that I made and I'm marginally proud. I'm going to follow my progress in this class by posting updates on what the blog looks like as I learn. A blog post about a blog? Yup, I'm so meta. 
 

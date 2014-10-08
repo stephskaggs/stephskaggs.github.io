@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Week 2: Recap
+title: Week 2 - More learning. Greater Confusion. 
 date: 2014-09-21
 categories: JavaScript, JQuery
 ---
-
-More learning. Greater Confusion. 
 
 So far so (kinda sort) good, (I guess). We’ve definitely covered a lot. But I think I have a hard time grasping things until I actually see them come to life through building something. So I just keep applying random styles and HTML that I find to my blog to see what it will do. I really want it to look better than it did last week when I created it. And it definitely looks…different. Not sure I can necessarily describe it as “better” so far.
 

@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Week 4: Recap
+title: Week 4 - The airing of the grievances.
 date: 2014-10-05
 categories: JavaScript, Floats, Grid
 ---
-
-The airing of the grievances.
 
 They showed us a bell chart on the first day of class that plummets to an all time low on week four. Well, that’s where we are, folks. We’ve learned a lot of things but none of them are really coming together yet and it’s sometimes hard to see the bigger picture. We had a bit of the airing of the grievances in class which led to “get your butt to office hours” discussion. Right. Will do. 
 

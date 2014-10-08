@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Prework: Recap
+title: Prework - Git the eff out.
 date: 2014-09-07
 categories: git, prework
 ---
 
-Git the eff out.
-
-The reality check of signing up for MakerSquare has set in. Holy moly I have a lot of prework to do. I raced through the HTML and CSS Code Academy work without a sweat. So naturally I assumed the rest would be just as simple.
+The reality of signing up for MakerSquare has set in. Holy moly I just did a lot of prework. I raced through the HTML and CSS Code Academy work without a sweat. So naturally I assumed the rest would be just as simple.
 
 But alas then I reached the exercise about command line and Git. GIT? What? I've never even heard that word before. And honestly, I've never accessed my computer's terminal...I'm not sure I knew that was even an option. At the time, I decided that command line and Git were, in fact, the worst.
 
