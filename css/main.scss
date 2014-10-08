@@ -33,6 +33,14 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
+// .head-container {
+// 	background-color: #5CAD85;
+// 	height: 300px;
+// 	width: 100%;
+// }
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;

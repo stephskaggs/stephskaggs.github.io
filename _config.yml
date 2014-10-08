@@ -1,6 +1,5 @@
 # Site settings
-title: This is hard. 
-subhead: Adventures in learning to code.
+title: This is hard. Adventures in learning to code.
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm usually a writer of words. But now I'm trying to learn to be a writer of code. It's hard. And I'm documenting my adventures here. 
