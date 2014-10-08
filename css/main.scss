@@ -47,7 +47,15 @@ $on-laptop:        800px;
     }
 }
 
+.h1 {
+	font-size: 20px;
+	color:#006B6B;
 
+}
+
+.p {
+	font-size: 14px;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
