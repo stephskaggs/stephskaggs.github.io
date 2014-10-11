@@ -68,6 +68,22 @@
 				"buffer_size": 1201,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "head.html",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stephskaggs.github.io.sublime-project",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -110,6 +126,7 @@
 	},
 	"file_history":
 	[
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_includes/stephskaggs.github.io.sublime-project",
 		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-24-alert.markdown",
 		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-30-blog-update.markdown",
 		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-26-blog-update.markdown",
@@ -175,7 +192,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -279,7 +296,7 @@
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 534.0,
+						"translation.y": 372.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -359,6 +376,58 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "head.html",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "stephskaggs.github.io.sublime-project",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
