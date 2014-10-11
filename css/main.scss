@@ -57,6 +57,13 @@ $on-laptop:        800px;
 	font-size: 14px;
 }
 
+.test {
+    background: blue;
+    color: white;
+}
+
+.page-test {background: red;}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",

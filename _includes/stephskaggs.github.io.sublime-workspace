@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_config.yml",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/about.md",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n  {% include head.html %}\n\n  <body>\n\n    {% include header.html %}\n\n    <div class=\"page-content\">\n      <div class=\"wrapper\">\n        {{ content }}\n      </div>\n    </div>\n\n    {% include footer.html %}\n\n  </body>\n\n</html>\n",
+			"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_layouts/default.html",
+			"file_size": 298,
+			"file_write_time": 1413051965000000,
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.html",
+			"settings":
+			{
+				"buffer_size": 3109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<header class=\"site-header\">\n\n  <div class=\"wrapper\">\n    <div class=\"head-container\">\n\n      <a class=\"site-title\" href=\"{{ site.baseurl }}/\">{{ site.title }}</a>\n\n    \n      <nav class=\"site-nav\">\n        <a href=\"#\" class=\"menu-icon\">\n          <svg viewBox=\"0 0 18 15\">\n            <path fill=\"#424242\" d=\"M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z\"/>\n            <path fill=\"#424242\" d=\"M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z\"/>\n            <path fill=\"#424242\" d=\"M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z\"/>\n          </svg>\n        </a>\n\n        <div class=\"trigger\">\n          {% for page in site.pages %}\n            {% if page.title %}\n            <a class=\"page-link\" href=\"{{ page.url | prepend: site.baseurl }}\">{{ page.title }}</a>\n            {% endif %}\n          {% endfor %}\n        </div>\n      </nav>\n\n       \n    </div>\n  </div>\n\n</header>\n\n\n",
+			"file": "header.html",
+			"file_size": 1208,
+			"file_write_time": 1413053096000000,
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"s",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-24-alert.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-30-blog-update.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-26-blog-update.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-15-blog-update.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_layouts/post.html",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-07-prework.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-14-week-one.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-10-05-week-four.markdown",
+		"/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_posts/2014-09-21-week-two.markdown",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-11.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-10.html",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-10.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-09.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-09.html",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-08.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-04.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-01.css",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-03.html",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-04.html",
+		"/Users/stephanies/Documents/makersquare/exercises/floats-front-end/example-03.css",
+		"/Users/stephanies/Documents/makersquare/exercises/js/js-functions.html",
+		"/Users/stephanies/Documents/makersquare/blog/css/script.js",
+		"/Users/stephanies/Documents/makersquare/blog/javascript/script.js",
+		"/Users/stephanies/Documents/makersquare/exercises/css-classes/style.css",
+		"/Users/stephanies/Documents/makersquare/blog/index.html",
+		"/Users/stephanies/Documents/makersquare/about.html",
+		"/Users/stephanies/Documents/makersquare/contact.html",
+		"/Users/stephanies/Desktop/CODING/Noktime/css/bootstrap-theme.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hideAnimals",
+			";\n",
+			"dropdown"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_config.yml",
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/about.md",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/css/main.scss",
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1082,
+								1065
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 534.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/stephanies/Documents/makersquare/stephskaggs.github.io/_layouts/page.html",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "footer.html",
+					"settings":
+					{
+						"buffer_size": 3109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "header.html",
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"post1"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

@@ -1,6 +1,6 @@
 # Site settings
 title: This is hard. Adventures in learning to code.
-email: your-email@domain.com
+email: snskaggs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm usually a writer of words. But now I'm trying to be a writer of code. It's hard. And I'm documenting my adventures here. 
 baseurl: "" # the subpath of your site, e.g. /blog/
