@@ -88,6 +88,19 @@ h2 {
     font-size: 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+        color: darken;
+}
+
+a:hover {
+        color: #003D7A;
+        text-decoration: none;
+}
+
 .site-nav {
     float:left;
     // border: solid purple;
@@ -106,6 +119,7 @@ h2 {
     border: solid black;
     text-align: left;
     font-weight: 600;
+    color: #E64016
 }
 
 .post-title {
@@ -113,6 +127,13 @@ h2 {
     text-align: left;
     color: #E64016
 }
+
+// .post-content {
+//     border: solid green;
+//     text-align: left;
+//     font-weight: 200;
+    
+// }
 
 // .page-test {background: red;}
 
