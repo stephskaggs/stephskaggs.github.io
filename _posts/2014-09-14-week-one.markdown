@@ -5,7 +5,7 @@ date: 2014-09-14
 categories: git, command line
 ---
 
-Week one at Makersquare is over, kids. If I were still in college I would equate day one to "syllabus day." Our instructors introduced themselves and they all seem super/awesome/cool/the best ever. (They also happen to be the ones who look at my homework. Hi Elise, Flip and Mae!)
+Week one at Makersquare is over, kids. If I were still in college I would equate day one to "syllabus day." Our instructors introduced themselves and they all seem super awesome. (They also happen to be the ones who look at my homework. Hi Elise, Flip and Mae!)
 
 And then we dove into installing. Sounds simple, yes. But I forgot to mention we were installing through terminal and terminal makes my brain hurt. First you install XCode, then you type a bunch of commands straight up into terminal. After a little assistance (okay, a lot of assistance) from Flip, I was up and running. It also didn't hurt that I already had some of the things installed from Springbox coding class.
 
