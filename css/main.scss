@@ -41,42 +41,24 @@ $on-laptop:        800px;
 }
 
 .wrapper {
-    // border: solid grey 10px;
     padding: 10px;
 }
 
 // header styling 
 .head-container {
-    // border: solid black;
     height: 260px;
     box-sizing: border-box;
     background-color: #81DABC;
 }
 
-// .head-container:after {
-//   content: "";
-//   display: table;
-//   clear: both;
-// }
-
-.title-container {
-    // box-sizing: border-box;
-    // height: 80%;
-    // width: 100%;
-    // // margin: 0 auto;
-    // position: relative;
-    // height: 10em;
-    // position: relative;   
+.title-container { 
     padding: 18px; 
 }
 
 h1, h2 {
-    // float: left;
     width: 100%;
     text-align: center;
-    // font-weight: 700;
     font-size: 68px;
-    // border: solid black;
     margin: 0;
     box-sizing: border-box;
     color: #C7EEE1;
@@ -103,7 +85,6 @@ a:hover {
 
 .site-nav {
     float:left;
-    // border: solid purple;
     width: 100%;
     background-color: #74C4A9;
     color: white;
@@ -120,12 +101,10 @@ a:hover {
 // body styling
 
 .post-list {
-    // border: solid blue;
     margin-top: 15px;
 }
 
 .post-link {
-    // border: solid black;
     text-align: left;
     font-weight: 500;
     color: #386958;
@@ -134,7 +113,6 @@ a:hover {
 
 
 p {
-    // border: solid purple;
     text-align: left;
     margin-bottom: 10px;
     margin-top: 5px;
@@ -150,7 +128,6 @@ p:after {
 }
 
 .post-meta {
-    // border: solid red;
     margin-top: 10px;
     padding-top: 10px;
     font-weight: 200;
@@ -158,16 +135,13 @@ p:after {
 }
 
 .blog-post {
-    // border: solid green;
     margin-bottom: 40px;
 }
 
 .read-more {
-    // border: solid lime;
     text-align: left;
     font-size: 16px;
     font-weight: 700;
-    // float: left;
     display: block;
     color: #FF7B59;
     padding-top: 6px;
@@ -177,7 +151,6 @@ p:after {
 // footer styling 
 
 .site-footer {
-    // border: solid black;
     height: 175px;
     box-sizing: border-box;
     background-color: #C7EEE1;
@@ -186,7 +159,6 @@ p:after {
 
 
 .footer-col-wrapper {
-    // border: solid blue;
     max-width: 800px;
     padding-right: 17%;
     padding-left: 17%;
@@ -196,11 +168,9 @@ p:after {
     content: "";
     display: table;
     clear: both;
-
 }
 
 .footer-col {
-    // border: solid purple;
     float: left;
 }
 
@@ -220,7 +190,7 @@ p:after {
     text-align: left;
     color: #386958;
     font-weight: 600;
-    font-size: 30;
+    font-size: 30px;
 }
 
 .post-content {
