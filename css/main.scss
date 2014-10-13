@@ -129,7 +129,7 @@ a:hover {
     // border: solid black;
     text-align: left;
     font-weight: 500;
-    color: #A0A0A0;
+    color: #386958;
     font-size: 20px;
 }
 
@@ -138,9 +138,16 @@ p {
     // border: solid purple;
     text-align: left;
     margin-bottom: 10px;
+    margin-top: 5px;
     text-color: #B8B8B8;
     font-size: 18px;
+    line-height: 200%;
+    padding-bottom:10px;
+    font-weight: 300;
+}
 
+p:after {
+    line-spacing: 10em;
 }
 
 .post-meta {
@@ -153,7 +160,7 @@ p {
 
 .blog-post {
     // border: solid green;
-    margin-bottom: 28px;
+    margin-bottom: 40px;
 }
 
 .read-more {
@@ -172,11 +179,10 @@ p {
 
 .site-footer {
     // border: solid black;
-    height: 150px;
+    height: 175px;
     box-sizing: border-box;
     background-color: #C7EEE1;
-    border-top: solid 20px #81DABC,
-    ;
+    border-top: solid 20px #81DABC;
 }
 
 
@@ -213,13 +219,17 @@ p {
 .post-title {
     // border: solid black;
     text-align: left;
-    color: #A8A8A8;
+    color: #386958;
+    font-weight: 600;
+    font-size: 30;
 }
 
 .post-content {
     // border: solid green;
     text-align: left;
     font-weight: 200;
+    margin-top: 40px;
+    margin-bottom: 100px;
     
 }
 
