@@ -106,9 +106,10 @@ a:hover {
 
 .post-link {
     text-align: left;
-    font-weight: 500;
+    font-weight: 600;
     color: #386958;
     font-size: 20px;
+    text-transform: lowercase;
 }
 
 
@@ -188,6 +189,7 @@ p:after {
     color: #386958;
     font-weight: 600;
     font-size: 30px;
+    text-transform: lowercase;
 }
 
 .post-content {
